@@ -19,6 +19,83 @@
       "title": "Product 4",
       "price": "235",
       "id": 4
+    },
+    {
+      "title": "New",
+      "price": "2323",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@mail.com",
+      "password": "admin"
+    },
+    {
+      "email": "me@aria.dev",
+      "password": "dev123",
+      "id": 2
+    },
+    {
+      "email": "me@aria.dev",
+      "password": "dev123",
+      "id": 3
+    },
+    {
+      "email": "me@aria.dev",
+      "password": "dev123",
+      "id": 4
+    },
+    {
+      "email": "admin@mail.com",
+      "password": "admin",
+      "id": 5
+    },
+    {
+      "email": "admin@mail.com",
+      "password": "admin",
+      "id": 6
+    },
+    {
+      "email": "admin@mail.com",
+      "password": "admin",
+      "id": 7
+    },
+    {
+      "email": "admin@mail.com",
+      "password": "admin",
+      "id": 8
+    },
+    {
+      "email": "admin@mail123.com",
+      "password": "admin",
+      "id": 9
+    },
+    {
+      "email": "admin@mail123.com123",
+      "password": "admin",
+      "id": 10
+    },
+    {
+      "email": "admin@mail123.com",
+      "password": "admin",
+      "id": 11
+    },
+    {
+      "email": "admin@mail123.com",
+      "password": "admin",
+      "id": 12
+    },
+    {
+      "email": "admin@mail123.com",
+      "password": "admin",
+      "id": 13
+    },
+    {
+      "email": "admin@mail123.com",
+      "password": "admin",
+      "id": 14
     }
   ]
 }
